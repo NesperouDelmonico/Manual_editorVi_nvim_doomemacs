@@ -1,4 +1,4 @@
-## 📑 Tabla de contenido
+## Tabla de contenido
 
 | Archivo | Descripción |
 |---|---|
@@ -22,6 +22,8 @@
 > - Insertion Mode: En este modo, sí se inserta tal cual las letras en el documento, como se haría en cualquier otro editor. Para entrar a este modo, se presiona la tecla i y, para regresar al Normal Mode se presiona la tecla Esc.
 
 > - Command Mode: Este tiene similitudes con el Normal Mode, pero está más enfocado a funciones como guardar (:w), salir (:q), etc, para acceder a este modo, se escriben los dos puntos :.
+
+## `Cheat command table`
 
 | Comando | ¿Qué hace? | Mi ejemplo |
 |---|---|---|
