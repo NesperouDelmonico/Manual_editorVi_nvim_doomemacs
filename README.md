@@ -41,3 +41,23 @@
 | `gg` / `G` | Va al inicio / final del archivo | gg / G |
 
 
+## ¿Cómo practicar tú mismo?
+
+1. Clona este repositorio: git clone https://github.com/NesperouDelmonico/Manual_editorVi_nvim_doomemacs.git
+   ```
+2. Abre el archivo de práctica con `vi`:
+   ```bash
+   vi ejercicios/mi-archivo-practica.txt
+   ```
+3. Repite los ejercicios descritos en cada archivo de `docs/`, en orden (del 01 al 07).
+
+4. Guarda tus cambios con `:wq` y compara tu resultado con el archivo original usando:
+   ```bash
+   git diff ejercicios/mi-archivo-practica.txt
+   ```
+5. Si quieres reiniciar el ejercicio desde cero:
+   ```bash
+   git checkout -- ejercicios/mi-archivo-practica.txt
+
+
+
