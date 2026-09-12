@@ -23,4 +23,19 @@
 
 > - Command Mode: Este tiene similitudes con el Normal Mode, pero está más enfocado a funciones como guardar (:w), salir (:q), etc, para acceder a este modo, se escriben los dos puntos :.
 
+| Comando | ¿Qué hace? | Mi ejemplo |
+|---|---|---|
+| `i` | Entra en modo inserción antes del cursor | i |
+| `Esc` | Vuelve al modo normal | Ecs |
+| `:w` | Guarda el archivo | :w |
+| `:q` | Sale del editor | :q |
+| `:wq` | Guarda y sale | :wq |
+| `dd` | Borra la línea actual | dd |
+| `yy` | Copia (yank) la línea actual | yy |
+| `p` | Pega después del cursor | p |
+| `u` | Deshace el último cambio | u |
+| `/palabra` | Busca "palabra" hacia adelante | /channel |
+| `:%s/vieja/nueva/g` | Reemplaza todas las coincidencias en el archivo | :%s/configuration/configuracion/g |
+| `gg` / `G` | Va al inicio / final del archivo | gg / G |
+
 
