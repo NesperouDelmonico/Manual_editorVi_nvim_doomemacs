@@ -60,6 +60,7 @@
 5. Si quieres reiniciar el ejercicio desde cero:
    ```bash
    git checkout -- ejercicios/mi-archivo-practica.txt
+   ```
 
 
 
