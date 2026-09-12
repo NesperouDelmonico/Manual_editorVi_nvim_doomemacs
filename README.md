@@ -1,0 +1,2 @@
+# Manual_editorVi_nvim_doomemacs
+Repo para linux 1 alfonsoPerez_gabrielMartinez
