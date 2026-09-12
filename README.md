@@ -43,7 +43,9 @@
 
 ## ¿Cómo practicar tú mismo?
 
-1. Clona este repositorio: git clone https://github.com/NesperouDelmonico/Manual_editorVi_nvim_doomemacs.git
+1. Clona este repositorio: g
+   ```bash
+   it clone https://github.com/NesperouDelmonico/Manual_editorVi_nvim_doomemacs.git
    ```
 2. Abre el archivo de práctica con `vi`:
    ```bash
